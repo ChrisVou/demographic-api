@@ -16,7 +16,7 @@ const db = knex({
     user : 'postgres',
     password : 'test',
     database : 'testface'*/
-    host: 'postgresql-pointy-80743',
+    host: 'postgresql-clear-17974',
     connectionString: process.env.DATABASE_URL,
     ssl: true,
   }
